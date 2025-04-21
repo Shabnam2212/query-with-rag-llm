@@ -1,0 +1,5 @@
+lxml
+langchain
+chromadb
+sentence-transformers
+langchain-groq
