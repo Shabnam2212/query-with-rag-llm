@@ -1,6 +1,6 @@
 This code converts scientific fulltext XML files into Markdown, chunks them smartly, and builds a retrieval-augmented generation (RAG) pipeline using LangChain, HuggingFaceEmbeddings, and ChromaDB.
 
-🔧 Features
+ Features
  Parses NXML files to extract structured scientific content
 
  Saves cleaned Markdown outputs with metadata (title, authors, DOI)
